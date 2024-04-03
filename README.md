@@ -11,7 +11,7 @@ Sunrise.h              : A library to use the Senseair Sunrise sensor in combina
 SetSunrise.ino         : Arduino code to set configurations of Sunrise sensor to operate on RiverRunner prototype
 Calibration_Sunrise.ino: Arduino code to set zero calibration on Sunrise Sensor
 
-Work published______
+Work published: https://jsss.copernicus.org/articles/13/41/2024/
 figshare: 10.6084/m9.figshare.25055297
 Code version used for the version publsihed is available at: 
 https://github.com/Martindalvai/RiverRunner-Arduino-code/commit/6dbccc2e85ae0d9a321bc822f13e0abed1c029f0
